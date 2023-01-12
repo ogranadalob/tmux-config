@@ -10,4 +10,6 @@ Paste next code in your terminal:
 ```
 Then open TMUX and execute `<leader>I`.
 
+### Note
+Is strongly suggested to install fira code from [nerd fonts](https://www.nerdfonts.com/font-downloads).
 
